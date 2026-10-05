@@ -1,0 +1,1 @@
+window.HR_PAGES=["p01.jpg", "p02.jpg", "p03.jpg", "p04.jpg", "p05.jpg", "p06.jpg", "p07.jpg", "p08.jpg", "p09.jpg", "p10.jpg", "p11.jpg", "p12.jpg", "p13.jpg", "p14.jpg", "p15.jpg", "p16.jpg", "p17.jpg", "p18.jpg", "p19.jpg", "p20.jpg", "p21.jpg", "p22.jpg", "p23.jpg", "p24.jpg", "p25.jpg", "p26.jpg", "p27.jpg", "p28.jpg", "p29.jpg", "p30.jpg"];
