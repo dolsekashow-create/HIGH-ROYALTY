@@ -219,7 +219,7 @@ section{position:relative}
 .cat-actions{display:flex;flex-wrap:wrap;gap:12px}
 
 /* credentials */
-.creds{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line);border-inline-start:1px solid var(--line)}
+.creds{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-inline-start:1px solid var(--line)}
 .cred{padding:28px;border-bottom:1px solid var(--line);border-inline-end:1px solid var(--line);background:var(--white)}
 .cred small{display:block;font-size:13.5px;color:var(--muted);margin-bottom:8px}
 .cred b{font-family:var(--head);font-size:19px;font-weight:700;line-height:1.5;display:block}
